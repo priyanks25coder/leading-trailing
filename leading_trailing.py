@@ -1,4 +1,3 @@
-
 # @ represents null
 # Reading grammar from grammar.txt file
 
