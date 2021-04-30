@@ -1,0 +1,2 @@
+A->Bbc/aA
+B->dB/e
