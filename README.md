@@ -1,2 +1,2 @@
 # leading-trailing
-Compute Leading and Trailing of a Operator Grammar
+Compute Leading and Trailing of an Operator Grammar
